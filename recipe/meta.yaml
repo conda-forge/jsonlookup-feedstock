@@ -1,5 +1,5 @@
 {% set name = "jsonLookup" %}
-{% set version = "0.7.5" %}
+{% set version = "0.8.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 3f88add5f8f3d596ba817f024444eb49bb85815add7d564f46b5aaf926403b29
+  sha256: 0dfb9384a047489c093deb62fc3b05c6f0a0ca0d514cf9a9fdf843dc1c889807
 
 build:
   number: 0
