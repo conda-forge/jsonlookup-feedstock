@@ -5,11 +5,9 @@ Home: https://pypi.org/project/jsonLookup/
 
 Package license: MIT
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/jsonlookup-feedstock/blob/master/LICENSE.txt)
 
 Summary: jsonLookup, searching in MySQL JSON field in Django.
-
-
 
 Current build status
 ====================
